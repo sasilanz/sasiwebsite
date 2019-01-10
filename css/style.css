@@ -242,7 +242,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: #444 url(../img/menu-bg.jpg) center center no-repeat fixed;
+	background: #444 url(../img/himmel.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -413,6 +413,14 @@ ol.type li a:hover {
 	opacity: 1;
 }
 /* Team Section */
+
+#blog .section-title {
+	background: #444 url(../img/himmel.jpg) center center no-repeat fixed;
+	background-size: cover;
+}
+#blog .section-title h2 {
+	color: #fff;
+}
 #team {
 	color: #fff;
 	background: #444 url(../img/team-bg.jpg) center top no-repeat fixed;
